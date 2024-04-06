@@ -2,7 +2,7 @@ import requests
 import json
 
 # 您的API / Your API
-api_key = "fk224519-qRivlELiNRAdCbAT5tnarCI7lKBvv3D7"
+api_key = "your api key"
 api_url = "https://oa.api2d.net"
 
 
